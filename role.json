@@ -1,0 +1,66 @@
+[
+    {
+        "name": "naren",
+        "email": "naren@yopmail.com",
+        "password": "password1",
+        "role": [
+            {
+                "role_name": "admin"
+            },
+            {
+                "perm_name": [
+                    "create",
+                    "view",
+                    "delete",
+                    "edit"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "muthu",
+        "email": "muthu@yopmail.com",
+        "password": "password1",
+        "role": [
+            {
+                "role_name": "Agent"
+            },
+            {
+                "perm_name": [
+                    "view",
+                    "edit"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "murali",
+        "email": "murali@yopmail.com",
+        "password": "password1",
+        "role": [
+            {
+                "role_name": "Buyer"
+            },
+            {
+                "perm_name": [
+                    "view"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "thiru",
+        "email": "thiru@yopmail.com",
+        "password": "password1",
+        "role": [
+            {
+                "role_name": "seller"
+            },
+            {
+                "perm_name": [
+                    "view"
+                ]
+            }
+        ]
+    }
+]
